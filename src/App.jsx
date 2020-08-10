@@ -5,6 +5,7 @@ import {NavLink,Switch,Route,Redirect} from 'react-router-dom'
 import MyNavLink from './components/MyNavLink'
 import './App.css'
 import Title from './components/Title'
+import './decorator1'
 
 export default class App extends Component {
     render() {
